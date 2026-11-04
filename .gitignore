@@ -1,0 +1,12 @@
+archive.zip
+
+generator_epoch_5.weights.h5
+generator_epoch_10.weights.h5
+
+
+epoch_010.pnggenerated_samples/*.epoch_010.png 
+epoch_010.pnggenerated_samples/*.epoch_005.png 
+generated_samples/ 
+
+archive/ 
+__pycache__/ 
